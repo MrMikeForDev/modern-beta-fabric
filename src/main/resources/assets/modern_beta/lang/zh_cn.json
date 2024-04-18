@@ -27,7 +27,7 @@
     "createWorld.customize.modern_beta.preset.type.default": "默认",
     "createWorld.customize.modern_beta.preset.type.custom": "自定义",
     
-    "createWorld.customize.modern_beta.preset.name.beta": "怀旧版 (Beta版) 世界",
+    "createWorld.customize.modern_beta.preset.name.beta": "怀旧版（Beta版）世界",
     "createWorld.customize.modern_beta.preset.name.alpha": "Alpha版世界",
     "createWorld.customize.modern_beta.preset.name.skylands": "天域世界",
     "createWorld.customize.modern_beta.preset.name.infdev_611": "Infdev 611版世界",
@@ -36,7 +36,7 @@
     "createWorld.customize.modern_beta.preset.name.infdev_227": "Infdev 227版世界",
     "createWorld.customize.modern_beta.preset.name.indev": "Indev版世界",
     "createWorld.customize.modern_beta.preset.name.classic_0_30": "Classic 0.30版世界",
-    "createWorld.customize.modern_beta.preset.name.pe": "便携版 (PE版) 世界",
+    "createWorld.customize.modern_beta.preset.name.pe": "便携版（PE版）世界",
     
     "createWorld.customize.modern_beta.preset.name.beta_skylands": "Beta群系化的天域世界",
     "createWorld.customize.modern_beta.preset.name.beta_isles": "Beta版岛屿世界",
@@ -76,7 +76,7 @@
     "createWorld.customize.modern_beta.preset.desc.alpha_winter": "生成Alpha 1.1.2_01冬季主题版的世界。",
     "createWorld.customize.modern_beta.preset.desc.indev_paradise": "生成Indev天堂地形版的世界。",
     "createWorld.customize.modern_beta.preset.desc.indev_woods": "生成Indev森林地形版的世界。",
-    "createWorld.customize.modern_beta.preset.desc.indev_hell": "生成Indev下界地形版的世界 (注：该世界时间锁定为夜晚。)",
+    "createWorld.customize.modern_beta.preset.desc.indev_hell": "生成Indev下界地形版的世界（注：该世界时间锁定为夜晚。）",
     
     "text.autoconfig.modern_beta.title": "现代化怀旧设置",
 
@@ -94,7 +94,7 @@
     "text.autoconfig.modern_beta.option.useFixedSeed": "使用固定的种子码",
     "text.autoconfig.modern_beta.option.useFixedSeed.@Tooltip[0]": "用于装有本模组的服务器。",
     "text.autoconfig.modern_beta.option.useFixedSeed.@Tooltip[1]": "开启“使用固定的种子码”功能。",
-    "text.autoconfig.modern_beta.option.useFixedSeed.@Tooltip[2]": "(需要重载世界)",
+    "text.autoconfig.modern_beta.option.useFixedSeed.@Tooltip[2]": "（需要重载世界）",
     
     "text.autoconfig.modern_beta.option.useBetaSkyColor": "使用Beta版天空颜色",
     "text.autoconfig.modern_beta.option.useBetaSkyColor.@Tooltip[0]": "使用客户端的温度",
@@ -103,12 +103,12 @@
     "text.autoconfig.modern_beta.option.useBetaBiomeColor": "使用Beta版生物群系颜色",
     "text.autoconfig.modern_beta.option.useBetaBiomeColor.@Tooltip[0]": "使用客户端的温度和湿度",
     "text.autoconfig.modern_beta.option.useBetaBiomeColor.@Tooltip[1]": "对Beta版世界的生物群系颜色进行基于噪声的渲染。",
-    "text.autoconfig.modern_beta.option.useBetaBiomeColor.@Tooltip[2]": "(需要使用F3 + T快捷键重载纹理)",
+    "text.autoconfig.modern_beta.option.useBetaBiomeColor.@Tooltip[2]": "（需要使用F3 + T快捷键重载纹理）",
     
     "text.autoconfig.modern_beta.option.useBetaWaterColor": "使用Beta版水体颜色",
     "text.autoconfig.modern_beta.option.useBetaWaterColor.@Tooltip[0]": "使用客户端的温度和湿度",
     "text.autoconfig.modern_beta.option.useBetaWaterColor.@Tooltip[1]": "对Beta版世界的水体颜色进行基于噪声的渲染。",
-    "text.autoconfig.modern_beta.option.useBetaWaterColor.@Tooltip[2]": "(需要使用F3 + T快捷键重载纹理)",
+    "text.autoconfig.modern_beta.option.useBetaWaterColor.@Tooltip[2]": "（需要使用F3 + T快捷键重载纹理）",
     
     "text.autoconfig.modern_beta.option.usePEBetaSkyColor": "使用PE版天空颜色",
     "text.autoconfig.modern_beta.option.usePEBetaSkyColor.@Tooltip[0]": "使用客户端的温度",
@@ -117,12 +117,12 @@
     "text.autoconfig.modern_beta.option.usePEBetaBiomeColor": "使用PE版生物群系颜色",
     "text.autoconfig.modern_beta.option.usePEBetaBiomeColor.@Tooltip[0]": "使用客户端的温度和湿度",
     "text.autoconfig.modern_beta.option.usePEBetaBiomeColor.@Tooltip[1]": "对PE版的世界生物群系颜色进行基于噪声的渲染。",
-    "text.autoconfig.modern_beta.option.usePEBetaBiomeColor.@Tooltip[2]": "(需要使用F3 + T快捷键重载纹理)",
+    "text.autoconfig.modern_beta.option.usePEBetaBiomeColor.@Tooltip[2]": "（需要使用F3 + T快捷键重载纹理）",
     
     "text.autoconfig.modern_beta.option.usePEBetaWaterColor": "使用PE版水体颜色",
     "text.autoconfig.modern_beta.option.usePEBetaWaterColor.@Tooltip[0]": "使用客户端的温度和湿度",
     "text.autoconfig.modern_beta.option.usePEBetaWaterColor.@Tooltip[1]": "对PE版的世界水体颜色进行基于噪声的渲染。",
-    "text.autoconfig.modern_beta.option.usePEBetaWaterColor.@Tooltip[2]": "(需要使用F3 + T快捷键重载纹理)",
+    "text.autoconfig.modern_beta.option.usePEBetaWaterColor.@Tooltip[2]": "（需要使用F3 + T快捷键重载纹理）",
     
     "text.autoconfig.modern_beta.option.useOldFogColor": "使用旧版的迷雾颜色。",
     "text.autoconfig.modern_beta.option.useOldFogColor.@Tooltip[0]": "使用旧版客户端的迷雾加权公式计算迷雾颜色。",
@@ -149,10 +149,10 @@
     
     "biome.modern_beta.alpha_winter": "Alpha版冬季",
     
-    "biome.modern_beta.indev_normal": "Indev版群系",
-    "biome.modern_beta.indev_hell": "Indev版下界",
-    "biome.modern_beta.indev_paradise": "Indev版天堂",
-    "biome.modern_beta.indev_woods": "Indev版森林",
+    "biome.modern_beta.indev_normal": "Indev普通",
+    "biome.modern_beta.indev_hell": "Indev下界",
+    "biome.modern_beta.indev_paradise": "Indev天堂",
+    "biome.modern_beta.indev_woods": "Indev森林",
     
     "biome.modern_beta.pe_forest": "便携版森林",
     "biome.modern_beta.pe_shrubland": "便携版灌木丛",
